@@ -1,2 +1,2 @@
-# BumbleDead
+# Bumble
 Clone of bumble
